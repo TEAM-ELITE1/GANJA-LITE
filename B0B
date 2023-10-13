@@ -1,10 +1,4 @@
 #!/data/data/com.termux/files/usr/bin/python
 import platform,os,sys
 
-os.system("clear")
-print('Use GANJA-ULTRA, That is update version ')
-print(' Ganja Lite is off')
-
-print('bye Bye Ganja lite')
-
 
