@@ -7,16 +7,10 @@
 
 # ❤︎__𝑻𝒐𝒐𝒍#!
 ```
-pkg i git
-
-pkg i python
-
-cd;rm -rf GANJA-LITE;git clone https://github.com/B0B-MARLEY/GANJA-LITE.git
-
+cd 
+git clone https://github.com/TEAM-ELITE1/GANJA-LITE
 cd GANJA-LITE
-
 chmod +x *
-
 ./B0B
 ```
 
